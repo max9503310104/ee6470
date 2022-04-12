@@ -1,10 +1,10 @@
-# Sobel Edge Detector
+# Usage
+In `./stratus`, type the following to run systemC simulation.
+``` 
+make sim_B
+```
 
-## SystemC Simulation
-
-- make run
-
-## Stratus
-
-- cd stratus
-- make sim_all
+In `./stratus`, type the following to run synthesis and verilog simulation.
+``` 
+make sim_V_DPA
+```
