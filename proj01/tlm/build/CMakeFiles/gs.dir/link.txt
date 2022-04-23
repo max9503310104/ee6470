@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall -pedantic -D NATIVE_SYSTEMC -D CLOCK_PERIOD=1.0  -rdynamic CMakeFiles/gs.dir/Initiator.cpp.o CMakeFiles/gs.dir/gauss_seidel.cpp.o CMakeFiles/gs.dir/main.cpp.o CMakeFiles/gs.dir/system.cpp.o CMakeFiles/gs.dir/testbench.cpp.o CMakeFiles/gs.dir/tlm_log.cpp.o  -o gs  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 -pthread 
