@@ -1,6 +1,6 @@
 ## 資料夾
-`./vp`是RISCV VP的CPU和硬體PE部分的程式(只包括和這個專題有關的部分)\
-`./sw`是RISCV VP的軟體部分的程式\
+`./vp`是RISCV VP的CPU和硬體PE的程式(只包括和這個專題有關的部分)\
+`./sw`是RISCV VP的軟體的程式\
 `./synthesis_stratus`是用來給Stratus合成的程式\
 把`vp`和`sw`資料夾放進lab中的riscv-vp資料夾即可使用下列功能
 
